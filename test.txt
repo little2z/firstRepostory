@@ -2,4 +2,8 @@ it's a test file
 add some character!
 this is a new branch
 
+<<<<<<< HEAD
 add a new branch is quich & simple!
+=======
+add a new branch is quick & simple!
+>>>>>>> dev
